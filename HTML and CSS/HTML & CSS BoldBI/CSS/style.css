@@ -1,0 +1,114 @@
+#body{
+    margin: 5px;
+
+}
+#page1{
+   margin: 25px 25px;
+}    
+
+
+#img1{
+    margin: 5px;    
+    width: 50px;
+}
+#img2{
+    margin: 5px;
+    width: 50px;
+}
+.sidepage{
+    background-image: url(../images/Vector-1.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    width:35%;
+    padding-left: 20px;
+    border: 4%;
+    float: left;
+    margin: 20px 80px;
+    padding: 20px 15px;
+    
+}
+
+#bb{
+    clear: both;
+}
+
+.rect{
+    width: 600px;
+    line-height: 2.0;
+    font-size: 14px;
+    font-weight: 400;
+}
+#arrow{
+    color: rgb(221, 79, 27);
+}
+a{
+    text-decoration: none;
+    color: rgb(221, 79, 27);
+}
+.cen,h3{
+    text-align: center;
+}
+#summit{
+    
+    text-align: center;
+    width: 600px;
+    background-color:  rgb(221, 79, 27);;
+    line-height: 1.5;
+    padding: 2px;
+}
+#summitcolor{
+    color: white;
+    font-size: 20px;
+
+}
+.branch{
+    margin: 20px;
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    width: 25%;
+    text-align: left;   
+    
+}
+#secondpage
+
+#head{
+    text-align: center;
+
+}
+.clr{
+    clear: both;
+}
+#chat{
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    
+}
+#foll{
+    font-size: 20px; 
+    color: #283a5e;
+}
+#third{
+    text-align: center;
+}
+#lis{
+    float: left;
+}
+.footer1{
+    display: flex;
+    margin-right: 20px;
+    float: right;
+}
+.footer1:hover{
+    color: #FF4800;
+    cursor: pointer;
+}
+#foot1,#foot2,#foot3{
+    float: right;
+}
+#footimg{
+    width: 10%;
+    height: auto;
+    margin: 20px 100px;
+}
